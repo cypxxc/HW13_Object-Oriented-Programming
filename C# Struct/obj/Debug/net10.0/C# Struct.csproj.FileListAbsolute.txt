@@ -1,0 +1,14 @@
+D:\HW13_653120100120\C# Struct\bin\Debug\net10.0\C# Struct.exe
+D:\HW13_653120100120\C# Struct\bin\Debug\net10.0\C# Struct.deps.json
+D:\HW13_653120100120\C# Struct\bin\Debug\net10.0\C# Struct.runtimeconfig.json
+D:\HW13_653120100120\C# Struct\bin\Debug\net10.0\C# Struct.dll
+D:\HW13_653120100120\C# Struct\bin\Debug\net10.0\C# Struct.pdb
+D:\HW13_653120100120\C# Struct\obj\Debug\net10.0\C# Struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW13_653120100120\C# Struct\obj\Debug\net10.0\C# Struct.AssemblyInfoInputs.cache
+D:\HW13_653120100120\C# Struct\obj\Debug\net10.0\C# Struct.AssemblyInfo.cs
+D:\HW13_653120100120\C# Struct\obj\Debug\net10.0\C# Struct.csproj.CoreCompileInputs.cache
+D:\HW13_653120100120\C# Struct\obj\Debug\net10.0\C# Struct.dll
+D:\HW13_653120100120\C# Struct\obj\Debug\net10.0\refint\C# Struct.dll
+D:\HW13_653120100120\C# Struct\obj\Debug\net10.0\C# Struct.pdb
+D:\HW13_653120100120\C# Struct\obj\Debug\net10.0\C# Struct.genruntimeconfig.cache
+D:\HW13_653120100120\C# Struct\obj\Debug\net10.0\ref\C# Struct.dll

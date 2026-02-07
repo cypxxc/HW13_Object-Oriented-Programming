@@ -1,0 +1,14 @@
+D:\HW13_653120100120\C# Record\bin\Debug\net10.0\C# Record.exe
+D:\HW13_653120100120\C# Record\bin\Debug\net10.0\C# Record.deps.json
+D:\HW13_653120100120\C# Record\bin\Debug\net10.0\C# Record.runtimeconfig.json
+D:\HW13_653120100120\C# Record\bin\Debug\net10.0\C# Record.dll
+D:\HW13_653120100120\C# Record\bin\Debug\net10.0\C# Record.pdb
+D:\HW13_653120100120\C# Record\obj\Debug\net10.0\C# Record.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW13_653120100120\C# Record\obj\Debug\net10.0\C# Record.AssemblyInfoInputs.cache
+D:\HW13_653120100120\C# Record\obj\Debug\net10.0\C# Record.AssemblyInfo.cs
+D:\HW13_653120100120\C# Record\obj\Debug\net10.0\C# Record.csproj.CoreCompileInputs.cache
+D:\HW13_653120100120\C# Record\obj\Debug\net10.0\C# Record.dll
+D:\HW13_653120100120\C# Record\obj\Debug\net10.0\refint\C# Record.dll
+D:\HW13_653120100120\C# Record\obj\Debug\net10.0\C# Record.pdb
+D:\HW13_653120100120\C# Record\obj\Debug\net10.0\C# Record.genruntimeconfig.cache
+D:\HW13_653120100120\C# Record\obj\Debug\net10.0\ref\C# Record.dll
